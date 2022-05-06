@@ -9,4 +9,41 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="one_lens">One lens</string>
+    <string name="ONE">ONE</string>
+    <string name="TWO">TWO lens</string>
+    <string name="THREE">THREE</string>
+    <string name="Import">Import</string>
+    <string name="Cancel">Cancel</string>
+    <string name="choose_lens_config"><![CDATA[Choose Lens & Config]]></string>
+    <string name="item">☆🅗🅞🅡🅤🅢☆</string>
+    <string name="description">- Created for Gcam LMC-8.4-R9
+📱 Compatible with most mobiles.
+🔄 Update 04/26/22
+⚠️ Sixth official version.
+
+✨ Leica Mode: Gives you an attractive result with a touch of vignette and more intensity of colors.
+- LDR: Ideal for taking pictures of objects in the dark.
+- PRO mode: It is recommended to use it if you want a photo with more saturation and details, also use it in night photos.
+- B&amp;W: For lovers of black and white photos.
+- Old : Gives a retro style result, like in the 90s.
+🆕 Updated Color Transform.
+🆕 New value of Merge Method and Sabre.
+🆕 Fixed noise reduction bug.
+🆕 Fixed issue with details.
+
+💾 Copy and paste this XML file to the following path: Internal Storage / LMC8.4
+✨ Leica Mode: Gives you an attractive result with a touch of vignette and more intensity of colors.
+- LDR: Ideal for taking pictures of objects in the dark.
+- PRO mode: It is recommended to use it if you want a photo with more saturation and details, also use it in night photos.
+- B&amp;W: For lovers of black and white photos.
+- Old : Gives a retro style result, like in the 90s.
+🆕 Updated Color Transform.
+🆕 New value of Merge Method and Sabre.
+🆕 Fixed noise reduction bug.
+🆕 Fixed issue with details.
+
+💾 Copy and paste this XML file to the following path: Internal Storage / LMC8.4
+
+👤 @Ronco7</string>
 </resources>
